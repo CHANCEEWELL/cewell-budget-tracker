@@ -1,5 +1,7 @@
 # cewell-budget-tracker
 
+![]https://raw.githubusercontent.com/CHANCEEWELL/cewell-budget-tracker/master/public/screenshot.png
+
   
 # Languages & Technologies Used:
 
